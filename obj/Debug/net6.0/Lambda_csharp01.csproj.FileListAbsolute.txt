@@ -1,0 +1,15 @@
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\bin\Debug\net6.0\Lambda_csharp01.exe
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\bin\Debug\net6.0\Lambda_csharp01.deps.json
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\bin\Debug\net6.0\Lambda_csharp01.runtimeconfig.json
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\bin\Debug\net6.0\Lambda_csharp01.dll
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\bin\Debug\net6.0\Lambda_csharp01.pdb
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\obj\Debug\net6.0\Lambda_csharp01.csproj.AssemblyReference.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\obj\Debug\net6.0\Lambda_csharp01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\obj\Debug\net6.0\Lambda_csharp01.AssemblyInfoInputs.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\obj\Debug\net6.0\Lambda_csharp01.AssemblyInfo.cs
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\obj\Debug\net6.0\Lambda_csharp01.csproj.CoreCompileInputs.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\obj\Debug\net6.0\Lambda_csharp01.dll
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\obj\Debug\net6.0\refint\Lambda_csharp01.dll
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\obj\Debug\net6.0\Lambda_csharp01.pdb
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\obj\Debug\net6.0\Lambda_csharp01.genruntimeconfig.cache
+C:\Users\LPCAMPOS\Downloads\Dev\Lambda_csharp01\obj\Debug\net6.0\ref\Lambda_csharp01.dll
